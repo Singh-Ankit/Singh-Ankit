@@ -20,7 +20,5 @@ I'm Ankit Kumar Singh, a Full Stack Developer 🚀 from India, currently, I'm wo
 - 🌱 I’m currently learning and exploring Cloud-Native technology
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kumar-ankitsingh)
 
-<p>&nbsp;
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Singh-Ankit&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="Singh-Ankit stats card" /></p>
 <p>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Singh-Ankit&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=false&layout=compact" alt="Singh-Ankit stats card" /></p>
