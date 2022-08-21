@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Singh-Ankit/Singh-Ankit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Hi there! 👋
+I'm Ankit Kumar Singh, a Full Stack Developer 🚀 from India, currently, I'm working as a Software Development Engineer at CSG Systems International. I love to explore new and upcoming technologies. Besides programming, I am fond of painting.
+
+- 🔭 I’m currently working on AWS Cloud, Go, C#, Terraform and SQL
+- 🌱 I’m currently learning and exploring Cloud-Native technology
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/kumar-ankitsingh)
+
+<p>&nbsp;
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Singh-Ankit&show_icons=true&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=true" alt="Singh-Ankit stats card" /></p>
+<p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Singh-Ankit&theme=default&title_color=000000&text_color=000000&bg_color=ffffff&hide_border=false&layout=compact" alt="Singh-Ankit stats card" /></p>
