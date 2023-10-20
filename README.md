@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## Hi there! 👋
-I'm Ankit Kumar Singh, a Full Stack Developer 🚀 from India, currently, I'm working as a Software Development Engineer at CSG Systems International. I love to explore new and upcoming technologies. Besides programming, I am fond of painting.
+I'm Ankit Kumar Singh, a Backend Developer 🚀 from India, currently, I'm working as a Software Development Engineer at CSG Systems International. I love to explore new and upcoming technologies. Besides programming, I am fond of painting.
 
 - 🔭 I’m currently working on AWS Cloud, Go, C#, Terraform and SQL
 - 🌱 I’m currently learning and exploring Cloud-Native technology
